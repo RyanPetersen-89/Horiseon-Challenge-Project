@@ -1,6 +1,6 @@
 <link rel="stylesheet"  href="assets\css\RMmd.css">
 <div class="txt-size-xxlarge">
-# <ul>*Horiseon Challenge Project*</ul>
+# *Horiseon Challenge Project*
 </div>
 ## Table of Contents
 
