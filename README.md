@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css"  href="assets\css\RMmd.css">
+
 # <ul>*Horiseon Challenge Project*</ul>
 
 ## Table of Contents
@@ -14,6 +16,7 @@ Below I'll go into more detail about what the challenge was and what it took in 
 why I think my solutions were good ones, as well as places I thought I could improve further.
 
 ## Goals
+
 
 <img src="./assets/images/README imgs/screenshot.png" width="800px" height="100%">
 
