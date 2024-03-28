@@ -1,7 +1,7 @@
-<link rel="stylesheet" type="text/css"  href="assets\css\RMmd.css">
-
+<link rel="stylesheet"  href="assets\css\RMmd.css">
+<div class="txt-size-xxlarge">
 # <ul>*Horiseon Challenge Project*</ul>
-
+</div>
 ## Table of Contents
 
 - [About](##About)
