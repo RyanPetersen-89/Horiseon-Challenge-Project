@@ -52,6 +52,22 @@ The goal of this project was to make sure that the code of the page met accessib
 ## The Outcome 
 I feel satisfied with the final outcome, after checking both the original and my finished project. I believe that I did not make any changes to the front end of the project while also cleaning up the back end of the project. <a href="https://ryanpetersen-89.github.io/Horiseon-Challenge-Project/">Here</a> is the link to the front end of my final results.
 
+#### Pros
+<br>
+
+- I learned and reinforced a lot of the ideas we learned the first week as well as a lot of the ideas I had already taught myself in the month prior to this course.
+- I was sufficiently challenged in many aspects of this process.
+    - I enjoyed being given the starter code and having the challenge of improving it.
+    - I was challenged when it came to finding the most efficient way to condense the css style sheet to remove as much code as I could while making things maintain functionality.
+- Learning to do a good README file was enjoyabe as well as learning to do the various markdown syntaxs.
+    <br>
+#### Cons
+<br>
+
+- I was furstrated with my inability to figure out how to condense the **< li >** and **< ul >**  elements in the header section of the index file.
+    - I would like to continue to search for a way to make this happen with less code.
+- 
+
 
 
 [[Return to Top]][def] <a name="Horiseon Challenge Project"></a>
