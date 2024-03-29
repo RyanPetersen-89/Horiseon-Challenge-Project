@@ -14,6 +14,8 @@ why I think my solutions were good ones, as well as places I thought I could imp
 
 ## Goals
 <br>
+### Below is a partial screenshot of what the website started off as based on the starter code we were give.
 <br>
 <img src="./assets/images/README imgs/screenshot.png" width="800px" height="100%" style="object-position: center;">
-
+<br>
+### __*The Goal*__
