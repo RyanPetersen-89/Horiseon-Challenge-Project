@@ -54,8 +54,4 @@ The goal of this project was to make sure that the code of the page met accessib
 
 
 
-<div style="text-align: center;">
-
-### *Return to Top* <a name="Horiseon Challenge Project"></a>
-
-</div>
+[[Return to Top]](#horiseon-challenge-project) <a name="Horiseon Challenge Project"></a>
