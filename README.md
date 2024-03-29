@@ -50,7 +50,7 @@ The goal of this project was to make sure that the code of the page met accessib
     - Along the way, I got comfortable with the various GIT commands that were used to push the project to git hub so that I could complete the assignment.
 
 ## The Outcome 
-I feel satisfied with the final outcome, after checking both the original and my finished project. I believe that I did not make any changes to the front end of the project while also cleaning up the back end of the project. <a href="ryanpetersen-89.github.io/Horiseon-Challenge-Project/">Here is the link to the front end of my final results.</a>
+I feel satisfied with the final outcome, after checking both the original and my finished project. I believe that I did not make any changes to the front end of the project while also cleaning up the back end of the project. <a href="https://ryanpetersen-89.github.io/Horiseon-Challenge-Project/">Here</a> is the link to the front end of my final results.
 
 
 
