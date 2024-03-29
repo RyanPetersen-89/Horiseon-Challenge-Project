@@ -1,31 +1,31 @@
-# *Horiseon Challenge Project* <a name="HCP"></a>
+# *Horiseon Challenge Project*
 ## Table of Contents
 
-- [About](#about)
-- [The_Purpose](#the-purpose)
-    - [The_Goal](#the-goal)
-- [The_Process](#the-process)
-- [The_Outcome](#the-outcome)
+- [About](#about)<a name="About"></a>
+- [The_Purpose](#the-purpose)<a name="The Purpose"></a>
+    - [The_Goal](#the-goal)<a name="The Goal"></a>
+- [The_Process](#the-process)<a name="The Process"></a>
+- [The_Outcome](#the-outcome)<a name="The Outcome"></a>
 
-## About <a name="About"></a>
+## About 
 
 This is the **Module 01 Challenge Project** for the **Fullstack Development BootCamp** course I am attending at UCI.
 This is our first Challenge for the course and so this is my first README as well.
 Below I'll go into more detail about what the challenge was and what it took in order for me to complete the challenge,
 why I think my solutions were good ones, as well as places I thought I could improve further.
 
-## The Purpose <a name="The Purpose"></a>
+## The Purpose 
 ### Below is a partial screenshot of what the website started off as based on the starter code we were give.
 <br>
 <img src="./assets/images/README imgs/screenshot.png" 
  alt="screenshot of the Horiseon page" width="800px" height="100%" style=object-position: center;>
 <br>
 
-### *The Goal* <a name="The Goal"></a>
+### *The Goal* 
 
 The goal of this project was to make sure that the code of the page met accessibility standards, as well as formulate everything we've learned in Module 01 to show our ability and grasp of the concepts.
 
-## The Process <a name="The Process"></a>
+## The Process 
 
 1. **Starting off** (*Getting the Starter Code*)
     - After navigating through the module to find the link to the starter code I was taken to a github repo which I needed to clone using Git Bash.
@@ -49,13 +49,13 @@ The goal of this project was to make sure that the code of the page met accessib
 4. **GIT Add/Commit/Push**
     - Along the way, I got comfortable with the various GIT commands that were used to push the project to git hub so that I could complete the assignment.
 
-## The Outcome <a name="The Outcome"></a>
+## The Outcome 
 
 
 
 
 <div style="text-align: center;">
 
-[This text will be centered.](#horiseon-challenge-project)
+### *Return to Top* <a name="Horiseon Challenge Project"></a>
 
 </div>
