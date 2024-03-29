@@ -40,4 +40,4 @@ The goal of this project was to make sure that the code of the page met accessib
         - After the Class .selectors where condesnsed and I was happy with the grouping and application of them, I went through and commented out the unnecessary Class .selectors and made comments for posterity.
     - I then went through and double checked that all the links and ***href*** items were working properly.
     - Continuing to look through the index file I grew frustrated with the fact that I just couldn't figure out how to condense a lot of the list and underline elements in the section of the index.
-        - 
+        - hhhhhhhhhhh
