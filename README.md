@@ -13,11 +13,7 @@ Below I'll go into more detail about what the challenge was and what it took in 
 why I think my solutions were good ones, as well as places I thought I could improve further.
 
 ## Goals
-<div style="
-    display: block;
-    margin-left: auto;
-    margin-right: auto;">
-<img src="./assets/images/README imgs/screenshot.png" width="800px" height="100%" style="display: block;
-    margin-left: auto;
-    margin-right: auto;">
-</div>
+<br>
+<br>
+<img src="./assets/images/README imgs/screenshot.png" width="800px" height="100%" style="object-position: center;">
+
