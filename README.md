@@ -54,4 +54,6 @@ I feel satisfied with the final outcome, after checking both the original and my
 
 
 
-[[Return to Top]](#horiseon-challenge-project) <a name="Horiseon Challenge Project"></a>
+[[Return to Top]][def] <a name="Horiseon Challenge Project"></a>
+
+[def]: #horiseon-challenge-project
