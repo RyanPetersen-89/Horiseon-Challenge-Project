@@ -1,33 +1,31 @@
-# *Horiseon Challenge Project*
+# *Horiseon Challenge Project* <a name="HCP"></a>
 ## Table of Contents
 
-- [About](About)
-- [The_Purpose](The_Purpose)
-    - [The_Goal](The_Goal)
-- [The_Process](The_Process)
-- [The_Outcome](The_Outcome)
+- [About](#about)
+- [The_Purpose](#the-purpose)
+    - [The_Goal](#the-goal)
+- [The_Process](#the-process)
+- [The_Outcome](#the-outcome)
 
-## About
+## About <a name="About"></a>
 
 This is the **Module 01 Challenge Project** for the **Fullstack Development BootCamp** course I am attending at UCI.
 This is our first Challenge for the course and so this is my first README as well.
 Below I'll go into more detail about what the challenge was and what it took in order for me to complete the challenge,
 why I think my solutions were good ones, as well as places I thought I could improve further.
 
-## The_Purpose
-<br>
-
+## The Purpose <a name="The Purpose"></a>
 ### Below is a partial screenshot of what the website started off as based on the starter code we were give.
 <br>
 <img src="./assets/images/README imgs/screenshot.png" 
  alt="screenshot of the Horiseon page" width="800px" height="100%" style=object-position: center;>
 <br>
 
-### *The_Goal*
+### *The Goal* <a name="The Goal"></a>
 
 The goal of this project was to make sure that the code of the page met accessibility standards, as well as formulate everything we've learned in Module 01 to show our ability and grasp of the concepts.
 
-## The_Process
+## The Process <a name="The Process"></a>
 
 1. **Starting off** (*Getting the Starter Code*)
     - After navigating through the module to find the link to the starter code I was taken to a github repo which I needed to clone using Git Bash.
@@ -40,4 +38,24 @@ The goal of this project was to make sure that the code of the page met accessib
         - After the Class .selectors where condesnsed and I was happy with the grouping and application of them, I went through and commented out the unnecessary Class .selectors and made comments for posterity.
     - I then went through and double checked that all the ***href*** items were working properly.
     - Continuing to look through the index file I grew frustrated with the fact that I just couldn't figure out how to condense a lot of the list and underline elements in the section of the index.
-        - hhhhhhhhhhh
+        - I ended up ignoring those parts as that part of the code was sufficient to do what it was intended to do and any attempt of me messing with it further at my current skill level was not condusive to a polished and working finished product.
+3. **README.md**
+    - So this is a bit meta as I am currently writing the *README*
+        - As part of writing the README, I took the time to attempt learning some of the markdown syntax for formatting.
+            - I used google to figure out different ways to link images, as a screenshot was required acoording to the *Module 01 Challenge* write up.
+            - I tried to figure out, through trial and error (*shown in the commits for this project*),  how and what HTML elements were accepted by a .md fiile.
+                - I learned that I could use < br > and < img > and learned that with the < img > element I could adjust the size of the screenshot in the .md file
+                    rather than having to pre adjust the image before inserting it.
+4. **GIT Add/Commit/Push**
+    - Along the way, I got comfortable with the various GIT commands that were used to push the project to git hub so that I could complete the assignment.
+
+## The Outcome <a name="The Outcome"></a>
+
+
+
+
+<div style="text-align: center;">
+
+[This text will be centered.](#horiseon-challenge-project)
+
+</div>
