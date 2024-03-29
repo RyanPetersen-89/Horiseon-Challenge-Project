@@ -1,11 +1,11 @@
 # *Horiseon Challenge Project*
 ## Table of Contents
 
-- [About](##About)
-- [The_Purpose](##The_Purpose)
-    - [The_Goal](###The_Goal)
-- [The_Process](##The_Process)
-- [The_Outcome](##The_Outcome)
+- [About](About)
+- [The_Purpose](The_Purpose)
+    - [The_Goal](The_Goal)
+- [The_Process](The_Process)
+- [The_Outcome](The_Outcome)
 
 ## About
 
