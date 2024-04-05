@@ -32,7 +32,7 @@ The goal of this project was to make sure that the code of the page met accessib
     - Once I cloned the repo I was able to move the starter code to my own local repo to work on it.
     - Going through the instructions for the challenge in BCS Module 01 I was ready to proceed.
 2. **Refactoring the Code** (*Meeting Accessiblity Standards*)
-    - Going through the index file right from the start the first thing I noticed was that one of the header links wasn't correctly linked to the header that it was supposed to be so I added that in.
+    - Going through the index file right from the start the first thing I noticed was that one of the header links wasn't correctly linked to the header that it was supposed to be so I added that in, and none of the images had an alt text so I added those in as well.
     - Continuing through the code in the index file I noticed that there was a lot of unnecessary naming conventions for different headings that all used the same style once i checked the styles sheet.
         - After realizing this I condensed a lot of the Class .selectors on the style sheet so that they were properly grouped and could apply in the ways they could.
         - After the Class .selectors where condesnsed and I was happy with the grouping and application of them, I went through and commented out the unnecessary Class .selectors and made comments for posterity.
@@ -50,7 +50,7 @@ The goal of this project was to make sure that the code of the page met accessib
     - Along the way, I got comfortable with the various GIT commands that were used to push the project to git hub so that I could complete the assignment.
 
 ## The Outcome 
-I feel satisfied with the final outcome, after checking both the original and my finished project. I believe that I did not make any changes to the front end of the project while also cleaning up the back end of the project. <a href="https://ryanpetersen-89.github.io/Horiseon-Challenge-Project/">Here</a> is the link to the front end of my final results.
+I feel satisfied with the final outcome, after checking both the original and my finished project. I believe that I did not make any changes to the front end of the project while also cleaning up the back end of the project. 
 
 ### Pros
 - I learned and reinforced a lot of the ideas we learned the first week as well as a lot of the ideas I had already taught myself in the month prior to this course.
@@ -63,7 +63,12 @@ I feel satisfied with the final outcome, after checking both the original and my
 - I was furstrated with my inability to figure out how to condense the **< li >** and **< ul >**  elements in the header section of the index file.
     - I would like to continue to search for a way to make this happen with less code.
 
+### 👇 Below is the link to the finished webpage.
+### <a href="https://ryanpetersen-89.github.io/Horiseon-Challenge-Project/"><span>**`Click Here`**</span></a>
 
+<br>
+<br>
+<br>
 
 [[Return to Top]][def] <a name="Horiseon Challenge Project"></a>
 
